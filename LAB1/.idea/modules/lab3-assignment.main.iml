@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id="lab3-assignment:main" external.linked.project.path="$MODULE_DIR$/../../lab3-assignment" external.root.project.path="$MODULE_DIR$/../../lab3-assignment" external.system.id="GRADLE" external.system.module.group="ro.mpp2024" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../../lab3-assignment/build/classes/java/main" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../lab3-assignment/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/../../lab3-assignment/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../lab3-assignment/src/main/resources" type="java-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-core:2.20.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.apache.logging.log4j:log4j-api:2.20.0" level="project" />
+    <orderEntry type="library" name="Gradle: org.xerial:sqlite-jdbc:3.45.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-classic:1.2.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.slf4j:slf4j-api:1.7.36" level="project" />
+    <orderEntry type="library" name="Gradle: ch.qos.logback:logback-core:1.2.3" level="project" />
+  </component>
+</module>

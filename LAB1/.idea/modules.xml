@@ -7,6 +7,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" filepath="$PROJECT_DIR$/.idea/modules/StartGradle.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/eng.module/eng.module.iml" filepath="$PROJECT_DIR$/eng.module/eng.module.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lab3-assignment.iml" filepath="$PROJECT_DIR$/lab3-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab3-assignment.main.iml" filepath="$PROJECT_DIR$/.idea/modules/lab3-assignment.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/lab3-assignment.test.iml" filepath="$PROJECT_DIR$/.idea/modules/lab3-assignment.test.iml" />
     </modules>
   </component>
 </project>
